@@ -1,0 +1,12 @@
+E:\MyFiles\Project\APIOnionArchitecture\OA.Persistence\bin\Debug\net6.0\OA.Persistence.deps.json
+E:\MyFiles\Project\APIOnionArchitecture\OA.Persistence\bin\Debug\net6.0\OA.Persistence.dll
+E:\MyFiles\Project\APIOnionArchitecture\OA.Persistence\bin\Debug\net6.0\ref\OA.Persistence.dll
+E:\MyFiles\Project\APIOnionArchitecture\OA.Persistence\bin\Debug\net6.0\OA.Persistence.pdb
+E:\MyFiles\Project\APIOnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.csproj.AssemblyReference.cache
+E:\MyFiles\Project\APIOnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyFiles\Project\APIOnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.AssemblyInfoInputs.cache
+E:\MyFiles\Project\APIOnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.AssemblyInfo.cs
+E:\MyFiles\Project\APIOnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.csproj.CoreCompileInputs.cache
+E:\MyFiles\Project\APIOnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.dll
+E:\MyFiles\Project\APIOnionArchitecture\OA.Persistence\obj\Debug\net6.0\ref\OA.Persistence.dll
+E:\MyFiles\Project\APIOnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.pdb

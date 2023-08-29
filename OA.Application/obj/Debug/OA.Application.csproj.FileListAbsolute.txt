@@ -1,0 +1,6 @@
+E:\MyFiles\Project\APIOnionArchitecture\OA.Application\bin\Debug\OA.Application.dll
+E:\MyFiles\Project\APIOnionArchitecture\OA.Application\bin\Debug\OA.Application.pdb
+E:\MyFiles\Project\APIOnionArchitecture\OA.Application\obj\Debug\OA.Application.csproj.AssemblyReference.cache
+E:\MyFiles\Project\APIOnionArchitecture\OA.Application\obj\Debug\OA.Application.csproj.CoreCompileInputs.cache
+E:\MyFiles\Project\APIOnionArchitecture\OA.Application\obj\Debug\OA.Application.dll
+E:\MyFiles\Project\APIOnionArchitecture\OA.Application\obj\Debug\OA.Application.pdb

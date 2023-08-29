@@ -1,0 +1,14 @@
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\bin\Debug\net6.0\OA.Domain.deps.json
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\bin\Debug\net6.0\OA.Domain.dll
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\bin\Debug\net6.0\ref\OA.Domain.dll
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\bin\Debug\net6.0\OA.Domain.pdb
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.csproj.AssemblyReference.cache
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.AssemblyInfoInputs.cache
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.AssemblyInfo.cs
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.csproj.CoreCompileInputs.cache
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.dll
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\obj\Debug\net6.0\ref\OA.Domain.dll
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.pdb
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\bin\Debug\net6.0\OA.Domain.runtimeconfig.json
+E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.genruntimeconfig.cache
