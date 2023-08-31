@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8lXhwb8n/GsYBdbjhBQ7Tpjq3k/1VWNHKqUj5AVlLxrUXQazBJLIsfYL68hcrizTAcLiK34zN6nuLP3at2wdww==",
+  "dgSpecHash": "ZviPQW1J5LB+db23E9Ym6RFlm5IDnMsd4jpW9V41xSSoqKaHIIHXRcGzY+QLPt0zRi9XVnZW0cQYO0F0JzuQTQ==",
   "success": true,
   "projectFilePath": "E:\\MyFiles\\Project\\APIOnionArchitecture\\OA.Persistence\\OA.Persistence.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mirzaei\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\mirzaei\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\mirzaei\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

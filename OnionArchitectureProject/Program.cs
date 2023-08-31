@@ -1,7 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Versioning;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using OA.Domain.Context;
+using OA.Domain.Repository;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,24 +18,30 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<MyContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("MyConnectionString")));
 
+
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
+#region mediatR
+
+//builder.Services.AddMediatR(typeof(Program).GetTypeInfo().Assembly);
+//builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
+
+#endregion
+
+
+
+
 #region ApiVersioning
-
-//builder.Services.AddApiVersioning();
-//builder.Services.AddApiVersioning(opt =>
-//{
-//    opt.AssumeDefaultVersionWhenUnspecified = true;
-//    opt.DefaultApiVersion = new ApiVersion(1, 0);
-//});
-
-//builder.Services.AddApiVersioning(opt => opt.ApiVersionReader = new HeaderApiVersionReader("api-version"));
-
 
 builder.Services.AddApiVersioning(options =>
 {
-    options.DefaultApiVersion = new ApiVersion(1, 0);
-    options.AssumeDefaultVersionWhenUnspecified = true;
-    options.ReportApiVersions = true;
+options.DefaultApiVersion = new ApiVersion(1, 0);
+options.AssumeDefaultVersionWhenUnspecified = true;
+options.ReportApiVersions = true;
+    //options.ApiVersionReader = new UrlSegmentApiVersionReader();
     options.ApiVersionReader = new QueryStringApiVersionReader("version");
+//options.ApiVersionReader = new HeaderApiVersionReader("api-version");
+//options.ApiVersionReader = ApiVersionReader.Combine(new HeaderApiVersionReader("x-api-version"), new QueryStringApiVersionReader("api-version"));
 });
 
 #endregion

@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "t0I34WMuXNXKz1j/kRs1wcuJi08KEVGLFK9yPriiHGXM+quP4dudi4r6i4Nc0U8et5YXZUoGy1pBQB2VtmFX7w==",
+  "dgSpecHash": "KQxq8qY2X8G/4xSCJ41YOBLCoT+bGiPELTTq2WoP2SYC5Bu5VZW2mp4/ArfLfbIT+rdZYGYSfTP6si3PBRd8/g==",
   "success": true,
   "projectFilePath": "E:\\MyFiles\\Project\\APIOnionArchitecture\\OA.Domain\\OA.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mirzaei\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mirzaei\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\mirzaei\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\mirzaei\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\mirzaei\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\mirzaei\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mirzaei\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\mirzaei\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",

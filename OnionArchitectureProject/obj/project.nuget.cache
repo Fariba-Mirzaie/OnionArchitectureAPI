@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "9NKRc8bTLvq8LBrdTOWZl1uWLwGwCRmRgaYLyJiv7dqDm86l1EpHuM4bQUFM+mM4asCMOv+pOmO92t6250Z70Q==",
+  "dgSpecHash": "gDNxhGBuc1Lia7TBXaacKly+6iT3Y+trGGH4gH7rJhlutPGmav0Vo0bObeF4bpGkXP1EAO0JH5kc+OhWE9SHuA==",
   "success": true,
   "projectFilePath": "E:\\MyFiles\\Project\\APIOnionArchitecture\\OnionArchitectureProject\\OnionArchitectureProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mirzaei\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mirzaei\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\mirzaei\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\mirzaei\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\mirzaei\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\mirzaei\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
     "C:\\Users\\mirzaei\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mirzaei\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

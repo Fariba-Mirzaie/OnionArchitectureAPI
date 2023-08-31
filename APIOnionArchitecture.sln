@@ -11,15 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{B265B2E5-121F-45AD-A26E-F304F3DB7F3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionArchitectureProject", "OnionArchitectureProject\OnionArchitectureProject.csproj", "{4A702DAD-C151-4F1A-BEBA-BA2E52C4A2EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionArchitectureProject", "OnionArchitectureProject\OnionArchitectureProject.csproj", "{4A702DAD-C151-4F1A-BEBA-BA2E52C4A2EA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA.Application", "OA.Application\OA.Application.csproj", "{A9CE7379-77D7-4CED-A53C-F6BC4ED088E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA.Persistence", "OA.Persistence\OA.Persistence.csproj", "{E100EA9B-6EC7-441E-B641-CE4C3C3E38F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OA.Persistence", "OA.Persistence\OA.Persistence.csproj", "{E100EA9B-6EC7-441E-B641-CE4C3C3E38F5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{90C1E336-E9EB-49AC-A02D-DE611343BCA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA.Domain", "OA.Domain\OA.Domain.csproj", "{E9E95D86-821E-46A8-8BA4-99AA20A39FDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OA.Domain", "OA.Domain\OA.Domain.csproj", "{E9E95D86-821E-46A8-8BA4-99AA20A39FDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
