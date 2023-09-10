@@ -8,7 +8,7 @@ namespace OA.Domain.Entities
 {
     public class Product :BaseEntity
     {
-        public string Title { get; set; }
+        public string Title { get; set; } = string.Empty;
         public int Stock { get; set; }
         public int Rate { get; set; }
         public DateTime CreateDate { get; set; }

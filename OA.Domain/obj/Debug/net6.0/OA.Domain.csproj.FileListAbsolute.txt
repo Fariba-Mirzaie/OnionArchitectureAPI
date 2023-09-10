@@ -12,3 +12,17 @@ E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\obj\Debug\net6.0\ref\OA.Domain
 E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.pdb
 E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\bin\Debug\net6.0\OA.Domain.runtimeconfig.json
 E:\MyFiles\Project\APIOnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.genruntimeconfig.cache
+D:\MyProject\OnionArchitecture\OA.Domain\bin\Debug\net6.0\OA.Domain.deps.json
+D:\MyProject\OnionArchitecture\OA.Domain\bin\Debug\net6.0\OA.Domain.runtimeconfig.json
+D:\MyProject\OnionArchitecture\OA.Domain\bin\Debug\net6.0\OA.Domain.dll
+D:\MyProject\OnionArchitecture\OA.Domain\bin\Debug\net6.0\ref\OA.Domain.dll
+D:\MyProject\OnionArchitecture\OA.Domain\bin\Debug\net6.0\OA.Domain.pdb
+D:\MyProject\OnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.csproj.AssemblyReference.cache
+D:\MyProject\OnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\OnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.AssemblyInfoInputs.cache
+D:\MyProject\OnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.AssemblyInfo.cs
+D:\MyProject\OnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.csproj.CoreCompileInputs.cache
+D:\MyProject\OnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.dll
+D:\MyProject\OnionArchitecture\OA.Domain\obj\Debug\net6.0\ref\OA.Domain.dll
+D:\MyProject\OnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.pdb
+D:\MyProject\OnionArchitecture\OA.Domain\obj\Debug\net6.0\OA.Domain.genruntimeconfig.cache

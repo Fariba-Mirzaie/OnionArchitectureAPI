@@ -1,0 +1,12 @@
+D:\MyProject\OnionArchitecture\OA.Application\bin\Debug\net6.0\OA.Application.deps.json
+D:\MyProject\OnionArchitecture\OA.Application\bin\Debug\net6.0\OA.Application.dll
+D:\MyProject\OnionArchitecture\OA.Application\bin\Debug\net6.0\ref\OA.Application.dll
+D:\MyProject\OnionArchitecture\OA.Application\bin\Debug\net6.0\OA.Application.pdb
+D:\MyProject\OnionArchitecture\OA.Application\obj\Debug\net6.0\OA.Application.csproj.AssemblyReference.cache
+D:\MyProject\OnionArchitecture\OA.Application\obj\Debug\net6.0\OA.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\OnionArchitecture\OA.Application\obj\Debug\net6.0\OA.Application.AssemblyInfoInputs.cache
+D:\MyProject\OnionArchitecture\OA.Application\obj\Debug\net6.0\OA.Application.AssemblyInfo.cs
+D:\MyProject\OnionArchitecture\OA.Application\obj\Debug\net6.0\OA.Application.csproj.CoreCompileInputs.cache
+D:\MyProject\OnionArchitecture\OA.Application\obj\Debug\net6.0\OA.Application.dll
+D:\MyProject\OnionArchitecture\OA.Application\obj\Debug\net6.0\ref\OA.Application.dll
+D:\MyProject\OnionArchitecture\OA.Application\obj\Debug\net6.0\OA.Application.pdb

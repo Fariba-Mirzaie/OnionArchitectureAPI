@@ -14,12 +14,27 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
 builder.Services.AddDbContext<MyContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("MyConnectionString")));
 
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
+#region ApiVersioning
+
+builder.Services.AddApiVersioning(options =>
+{
+    options.DefaultApiVersion = new ApiVersion(1, 0);
+    options.AssumeDefaultVersionWhenUnspecified = true;
+    options.ReportApiVersions = true;
+    options.ApiVersionReader = new QueryStringApiVersionReader("version");
+    //options.ApiVersionReader = new UrlSegmentApiVersionReader();
+   // options.ApiVersionReader = new QueryStringApiVersionReader("version");
+    //options.ApiVersionReader = new HeaderApiVersionReader("api-version");
+    //options.ApiVersionReader = ApiVersionReader.Combine(new HeaderApiVersionReader("x-api-version"), new QueryStringApiVersionReader("api-version"));
+});
+
+#endregion
 
 #region mediatR
 
@@ -28,23 +43,6 @@ builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
 #endregion
 
-
-
-
-#region ApiVersioning
-
-builder.Services.AddApiVersioning(options =>
-{
-options.DefaultApiVersion = new ApiVersion(1, 0);
-options.AssumeDefaultVersionWhenUnspecified = true;
-options.ReportApiVersions = true;
-    //options.ApiVersionReader = new UrlSegmentApiVersionReader();
-    options.ApiVersionReader = new QueryStringApiVersionReader("version");
-//options.ApiVersionReader = new HeaderApiVersionReader("api-version");
-//options.ApiVersionReader = ApiVersionReader.Combine(new HeaderApiVersionReader("x-api-version"), new QueryStringApiVersionReader("api-version"));
-});
-
-#endregion
 
 var app = builder.Build();
 

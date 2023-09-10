@@ -3,10 +3,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace OnionArchitectureProject.Controllers.V1
 {
-    [ApiVersion("1.0")]
-    [Route("api/v{version:apiVersion}/[controller]")]
     //[Route("api/[controller]")]  چرا هرچی ران میکنم v1 اجرا میشود؟
+    //[Route("api/v{version:apiVersion}/[controller]")]
+
     [ApiController]
+    [ApiVersion("1.0")]
+    [Route("api/[controller]")]
     public class FirstController : ControllerBase
     {
         [HttpGet]

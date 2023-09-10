@@ -3,13 +3,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace OnionArchitectureProject.Controllers.V2
 {
-    [ApiVersion("2.0")]
-    [Route("api/v{version:apiVersion}/[controller]")]
-    //[Route("api/[controller]")]
     [ApiController]
+    [Route("api/[controller]")]
     public class FirstController : ControllerBase
     {
-        [HttpGet]
+        [HttpGet("GetVersion2")]
         public string Get()
         {
             return "data from api v2";
