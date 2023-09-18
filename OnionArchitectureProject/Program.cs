@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Versioning;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using OA.Application.Services;
 using OA.Domain.Context;
 using OA.Domain.Repository;
 using System.Reflection;
@@ -19,6 +20,7 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("MyConnectionStri
 
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IProductService, ProductService>();
 
 #region ApiVersioning
 

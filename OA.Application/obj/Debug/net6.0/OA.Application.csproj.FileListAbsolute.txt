@@ -10,3 +10,8 @@ D:\MyProject\OnionArchitecture\OA.Application\obj\Debug\net6.0\OA.Application.cs
 D:\MyProject\OnionArchitecture\OA.Application\obj\Debug\net6.0\OA.Application.dll
 D:\MyProject\OnionArchitecture\OA.Application\obj\Debug\net6.0\ref\OA.Application.dll
 D:\MyProject\OnionArchitecture\OA.Application\obj\Debug\net6.0\OA.Application.pdb
+D:\MyProject\OnionArchitecture\OA.Application\bin\Debug\net6.0\OA.Domain.dll
+D:\MyProject\OnionArchitecture\OA.Application\bin\Debug\net6.0\OA.Domain.pdb
+D:\MyProject\OnionArchitecture\OA.Application\obj\Debug\net6.0\OA.Application.csproj.CopyComplete
+D:\MyProject\OnionArchitecture\OA.Application\bin\Debug\net6.0\OA.Persistence.dll
+D:\MyProject\OnionArchitecture\OA.Application\bin\Debug\net6.0\OA.Persistence.pdb

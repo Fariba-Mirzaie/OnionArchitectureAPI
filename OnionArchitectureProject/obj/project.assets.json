@@ -1053,6 +1053,20 @@
           }
         }
       },
+      "OA.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "OA.Domain": "1.0.0",
+          "OA.Persistence": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OA.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OA.Application.dll": {}
+        }
+      },
       "OA.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1067,6 +1081,20 @@
         },
         "runtime": {
           "bin/placeholder/OA.Domain.dll": {}
+        }
+      },
+      "OA.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MediatR": "12.1.1",
+          "OA.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OA.Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OA.Persistence.dll": {}
         }
       }
     }
@@ -3592,10 +3620,20 @@
         "version.txt"
       ]
     },
+    "OA.Application/1.0.0": {
+      "type": "project",
+      "path": "../OA.Application/OA.Application.csproj",
+      "msbuildProject": "../OA.Application/OA.Application.csproj"
+    },
     "OA.Domain/1.0.0": {
       "type": "project",
       "path": "../OA.Domain/OA.Domain.csproj",
       "msbuildProject": "../OA.Domain/OA.Domain.csproj"
+    },
+    "OA.Persistence/1.0.0": {
+      "type": "project",
+      "path": "../OA.Persistence/OA.Persistence.csproj",
+      "msbuildProject": "../OA.Persistence/OA.Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3606,6 +3644,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 7.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.10",
+      "OA.Application >= 1.0.0",
       "OA.Domain >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -3637,6 +3676,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\MyProject\\OnionArchitecture\\OA.Application\\OA.Application.csproj": {
+              "projectPath": "D:\\MyProject\\OnionArchitecture\\OA.Application\\OA.Application.csproj"
+            },
             "D:\\MyProject\\OnionArchitecture\\OA.Domain\\OA.Domain.csproj": {
               "projectPath": "D:\\MyProject\\OnionArchitecture\\OA.Domain\\OA.Domain.csproj"
             }

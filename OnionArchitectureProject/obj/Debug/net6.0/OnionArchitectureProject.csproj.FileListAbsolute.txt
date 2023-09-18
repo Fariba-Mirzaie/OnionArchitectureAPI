@@ -178,3 +178,7 @@ D:\MyProject\OnionArchitecture\OnionArchitectureProject\obj\Debug\net6.0\staticw
 D:\MyProject\OnionArchitecture\OnionArchitectureProject\obj\Debug\net6.0\scopedcss\bundle\OnionArchitectureProject.styles.css
 D:\MyProject\OnionArchitecture\OnionArchitectureProject\obj\Debug\net6.0\OnionArchitectureProject.csproj.CopyComplete
 D:\MyProject\OnionArchitecture\OnionArchitectureProject\obj\Debug\net6.0\OnionArchitectureProject.genruntimeconfig.cache
+D:\MyProject\OnionArchitecture\OnionArchitectureProject\bin\Debug\net6.0\OA.Application.dll
+D:\MyProject\OnionArchitecture\OnionArchitectureProject\bin\Debug\net6.0\OA.Application.pdb
+D:\MyProject\OnionArchitecture\OnionArchitectureProject\bin\Debug\net6.0\OA.Persistence.dll
+D:\MyProject\OnionArchitecture\OnionArchitectureProject\bin\Debug\net6.0\OA.Persistence.pdb

@@ -14,6 +14,7 @@
           "Microsoft.EntityFrameworkCore.Design": "7.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.10",
+          "OA.Application": "1.0.0",
           "OA.Domain": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
@@ -779,6 +780,15 @@
           }
         }
       },
+      "OA.Application/1.0.0": {
+        "dependencies": {
+          "OA.Domain": "1.0.0",
+          "OA.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "OA.Application.dll": {}
+        }
+      },
       "OA.Domain/1.0.0": {
         "dependencies": {
           "MediatR": "12.1.1",
@@ -788,6 +798,15 @@
         },
         "runtime": {
           "OA.Domain.dll": {}
+        }
+      },
+      "OA.Persistence/1.0.0": {
+        "dependencies": {
+          "MediatR": "12.1.1",
+          "OA.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OA.Persistence.dll": {}
         }
       }
     }
@@ -1337,7 +1356,17 @@
       "path": "system.windows.extensions/5.0.0",
       "hashPath": "system.windows.extensions.5.0.0.nupkg.sha512"
     },
+    "OA.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "OA.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OA.Persistence/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

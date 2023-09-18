@@ -10,5 +10,7 @@ namespace OA.Domain.Repository
     public interface IProductRepository
     {
         bool CreateProduct(Product product);
+        Product GetProductById(int productId);
+        void SaveChange();
     }
 }
