@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\OA.Domain\OA.Domain.csproj" />
     <ProjectReference Include="..\OA.Persistence\OA.Persistence.csproj" />
   </ItemGroup>

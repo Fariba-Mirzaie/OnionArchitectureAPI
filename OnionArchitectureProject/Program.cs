@@ -6,6 +6,7 @@ using OA.Application.Services;
 using OA.Domain.Context;
 using OA.Domain.Repository;
 using System.Reflection;
+using static OA.Domain.CQRS.GetProducts;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -39,9 +40,11 @@ builder.Services.AddApiVersioning(options =>
 #endregion
 
 #region mediatR
+//builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(AppDomain.CurrentDomain.GetAssemblies()));
 
-//builder.Services.AddMediatR(typeof(Program).GetTypeInfo().Assembly);
-//builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
+
+
 
 #endregion
 

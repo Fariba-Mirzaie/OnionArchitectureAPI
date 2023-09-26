@@ -14,14 +14,14 @@ D:\MyProject\OnionArchitecture\OA.Persistence\bin\Debug\net6.0\OA.Persistence.de
 D:\MyProject\OnionArchitecture\OA.Persistence\bin\Debug\net6.0\OA.Persistence.dll
 D:\MyProject\OnionArchitecture\OA.Persistence\bin\Debug\net6.0\ref\OA.Persistence.dll
 D:\MyProject\OnionArchitecture\OA.Persistence\bin\Debug\net6.0\OA.Persistence.pdb
+D:\MyProject\OnionArchitecture\OA.Persistence\bin\Debug\net6.0\OA.Domain.dll
+D:\MyProject\OnionArchitecture\OA.Persistence\bin\Debug\net6.0\OA.Domain.pdb
 D:\MyProject\OnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.csproj.AssemblyReference.cache
 D:\MyProject\OnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.GeneratedMSBuildEditorConfig.editorconfig
 D:\MyProject\OnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.AssemblyInfoInputs.cache
 D:\MyProject\OnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.AssemblyInfo.cs
 D:\MyProject\OnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.csproj.CoreCompileInputs.cache
+D:\MyProject\OnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.csproj.CopyComplete
 D:\MyProject\OnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.dll
 D:\MyProject\OnionArchitecture\OA.Persistence\obj\Debug\net6.0\ref\OA.Persistence.dll
 D:\MyProject\OnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.pdb
-D:\MyProject\OnionArchitecture\OA.Persistence\bin\Debug\net6.0\OA.Domain.dll
-D:\MyProject\OnionArchitecture\OA.Persistence\bin\Debug\net6.0\OA.Domain.pdb
-D:\MyProject\OnionArchitecture\OA.Persistence\obj\Debug\net6.0\OA.Persistence.csproj.CopyComplete

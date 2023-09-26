@@ -3117,6 +3117,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "MediatR >= 12.1.1",
       "OA.Domain >= 1.0.0",
       "OA.Persistence >= 1.0.0"
     ]
@@ -3166,6 +3167,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "MediatR": {
+            "target": "Package",
+            "version": "[12.1.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
