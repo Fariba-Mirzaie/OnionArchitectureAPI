@@ -3651,19 +3651,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fariba-Notebook\\.nuget\\packages\\": {}
+    "C:\\Users\\mirzaei\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyProject\\OnionArchitecture\\OnionArchitectureProject\\OnionArchitectureProject.csproj",
+      "projectUniqueName": "E:\\MyFiles\\Project\\OnionArchitectureAPI\\OnionArchitectureProject\\OnionArchitectureProject.csproj",
       "projectName": "OnionArchitectureProject",
-      "projectPath": "D:\\MyProject\\OnionArchitecture\\OnionArchitectureProject\\OnionArchitectureProject.csproj",
-      "packagesPath": "C:\\Users\\Fariba-Notebook\\.nuget\\packages\\",
-      "outputPath": "D:\\MyProject\\OnionArchitecture\\OnionArchitectureProject\\obj\\",
+      "projectPath": "E:\\MyFiles\\Project\\OnionArchitectureAPI\\OnionArchitectureProject\\OnionArchitectureProject.csproj",
+      "packagesPath": "C:\\Users\\mirzaei\\.nuget\\packages\\",
+      "outputPath": "E:\\MyFiles\\Project\\OnionArchitectureAPI\\OnionArchitectureProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Fariba-Notebook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mirzaei\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3677,11 +3677,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\MyProject\\OnionArchitecture\\OA.Application\\OA.Application.csproj": {
-              "projectPath": "D:\\MyProject\\OnionArchitecture\\OA.Application\\OA.Application.csproj"
+            "E:\\MyFiles\\Project\\OnionArchitectureAPI\\OA.Application\\OA.Application.csproj": {
+              "projectPath": "E:\\MyFiles\\Project\\OnionArchitectureAPI\\OA.Application\\OA.Application.csproj"
             },
-            "D:\\MyProject\\OnionArchitecture\\OA.Domain\\OA.Domain.csproj": {
-              "projectPath": "D:\\MyProject\\OnionArchitecture\\OA.Domain\\OA.Domain.csproj"
+            "E:\\MyFiles\\Project\\OnionArchitectureAPI\\OA.Domain\\OA.Domain.csproj": {
+              "projectPath": "E:\\MyFiles\\Project\\OnionArchitectureAPI\\OA.Domain\\OA.Domain.csproj"
             }
           }
         }

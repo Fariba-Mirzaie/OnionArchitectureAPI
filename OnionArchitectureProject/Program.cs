@@ -40,7 +40,7 @@ builder.Services.AddApiVersioning(options =>
 #endregion
 
 #region mediatR
-//builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
+
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(AppDomain.CurrentDomain.GetAssemblies()));
 
 #endregion

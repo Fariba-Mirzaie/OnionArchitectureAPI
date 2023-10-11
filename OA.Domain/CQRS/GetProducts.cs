@@ -19,6 +19,8 @@ namespace OA.Domain.CQRS
         public class QueryHandler : IRequestHandler<Query, IEnumerable<Product>> //ریسپانس/ریگوئیست
         {
             private readonly MyContext _myContext;
+            public QueryHandler(MyContext context) => _myContext = context;
+            
             public async Task<IEnumerable<Product>> Handle(Query request, CancellationToken cancellationToken)
             {
                 return await _myContext.products.ToListAsync();

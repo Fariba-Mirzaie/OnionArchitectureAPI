@@ -3357,19 +3357,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fariba-Notebook\\.nuget\\packages\\": {}
+    "C:\\Users\\mirzaei\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyProject\\OnionArchitecture\\OA.Domain\\OA.Domain.csproj",
+      "projectUniqueName": "E:\\MyFiles\\Project\\OnionArchitectureAPI\\OA.Domain\\OA.Domain.csproj",
       "projectName": "OA.Domain",
-      "projectPath": "D:\\MyProject\\OnionArchitecture\\OA.Domain\\OA.Domain.csproj",
-      "packagesPath": "C:\\Users\\Fariba-Notebook\\.nuget\\packages\\",
-      "outputPath": "D:\\MyProject\\OnionArchitecture\\OA.Domain\\obj\\",
+      "projectPath": "E:\\MyFiles\\Project\\OnionArchitectureAPI\\OA.Domain\\OA.Domain.csproj",
+      "packagesPath": "C:\\Users\\mirzaei\\.nuget\\packages\\",
+      "outputPath": "E:\\MyFiles\\Project\\OnionArchitectureAPI\\OA.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Fariba-Notebook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mirzaei\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
